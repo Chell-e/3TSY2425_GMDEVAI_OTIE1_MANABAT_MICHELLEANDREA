@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA1CA-8C55-ECE4-A49A-9C3A3CCBB2F5}|Assembly-CSharp.csproj|D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\assets\\scripts\\avatarmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA1CA-8C55-ECE4-A49A-9C3A3CCBB2F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\avatarmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA1CA-8C55-ECE4-A49A-9C3A3CCBB2F5}|Assembly-CSharp.csproj|d:\\sy25_t3_college\\gmdevai\\3tsy2425_gmdevai_otie1_manabat_michelleandrea\\module 1_vector motion\\assets\\scripts\\avatarcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA1CA-8C55-ECE4-A49A-9C3A3CCBB2F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\avatarcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA1CA-8C55-ECE4-A49A-9C3A3CCBB2F5}|Assembly-CSharp.csproj|D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\assets\\scripts\\petfollowowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA1CA-8C55-ECE4-A49A-9C3A3CCBB2F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\petfollowowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvatarCamera.cs",
+              "DocumentMoniker": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\Assets\\Scripts\\AvatarCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AvatarCamera.cs",
+              "ToolTip": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\Assets\\Scripts\\AvatarCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AvatarCamera.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:56:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvatarMovement.cs",
+              "DocumentMoniker": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\Assets\\Scripts\\AvatarMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AvatarMovement.cs",
+              "ToolTip": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\Assets\\Scripts\\AvatarMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AvatarMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T15:12:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetFollowOwner.cs",
+              "DocumentMoniker": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\Assets\\Scripts\\PetFollowOwner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PetFollowOwner.cs",
+              "ToolTip": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 1_Vector Motion\\Assets\\Scripts\\PetFollowOwner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PetFollowOwner.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:58:12.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
