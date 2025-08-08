@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{0D59D453-0D38-3FB8-C100-46EC45D6B6B8}|Assembly-CSharp.csproj|solutionrelative:assets\\aicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D59D453-0D38-3FB8-C100-46EC45D6B6B8}|Assembly-CSharp.csproj|d:\\sy25_t3_college\\gmdevai\\3tsy2425_gmdevai_otie1_manabat_michelleandrea\\module 5_pathfinding behaviors\\assets\\wasdmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D59D453-0D38-3FB8-C100-46EC45D6B6B8}|Assembly-CSharp.csproj|d:\\sy25_t3_college\\gmdevai\\3tsy2425_gmdevai_otie1_manabat_michelleandrea\\module 5_pathfinding behaviors\\assets\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D59D453-0D38-3FB8-C100-46EC45D6B6B8}|Assembly-CSharp.csproj|solutionrelative:assets\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D59D453-0D38-3FB8-C100-46EC45D6B6B8}|Assembly-CSharp.csproj|D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 5_Pathfinding Behaviors\\assets\\wasdmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D59D453-0D38-3FB8-C100-46EC45D6B6B8}|Assembly-CSharp.csproj|solutionrelative:assets\\wasdmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "World.cs",
+              "DocumentMoniker": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 5_Pathfinding Behaviors\\Assets\\World.cs",
+              "RelativeDocumentMoniker": "Assets\\World.cs",
+              "ToolTip": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 5_Pathfinding Behaviors\\Assets\\World.cs",
+              "RelativeToolTip": "Assets\\World.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:43:53.997Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "Assets\\AIControl.cs",
               "ToolTip": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 5_Pathfinding Behaviors\\Assets\\AIControl.cs",
               "RelativeToolTip": "Assets\\AIControl.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwDwAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwKsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T13:28:46.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WASDMovement.cs",
               "DocumentMoniker": "D:\\SY25_T3_COLLEGE\\GMDEVAI\\3TSY2425_GMDEVAI_OTIE1_MANABAT_MICHELLEANDREA\\Module 5_Pathfinding Behaviors\\Assets\\WASDMovement.cs",
               "RelativeDocumentMoniker": "Assets\\WASDMovement.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Assets\\WASDMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:27:14.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T13:27:14.297Z"
             }
           ]
         }

@@ -52,10 +52,9 @@
     <UnityVersion>2020.1.2f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\PetFollowOwner.cs" />
     <Compile Include="Assets\Scripts\AvatarMovement.cs" />
     <Compile Include="Assets\Scripts\AvatarCamera.cs" />
-    <Compile Include="Assets\Scripts\MoveCamera.cs" />
+    <Compile Include="Assets\Scripts\PetFollowOwner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

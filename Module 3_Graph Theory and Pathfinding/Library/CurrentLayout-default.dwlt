@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 20
+  controlID: 46
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 87
+  controlID: 47
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 88
+  controlID: 20
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -330,9 +330,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: de360000
-    m_LastClickedID: 14046
-    m_ExpandedIDs: 00000000d2360000
+    m_SelectedIDs: e63e0000
+    m_LastClickedID: 16102
+    m_ExpandedIDs: 00000000d63e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000d63e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -482,23 +482,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0c3e0000
-      m_LastClickedID: 15884
-      m_ExpandedIDs: 4ce9feffaef1ffff98f2ffff28f3ffff6af3ffff44faffff62fbffff0c3e0000
+      m_SelectedIDs: c2480000
+      m_LastClickedID: 18626
+      m_ExpandedIDs: faeeffff18efffffc4f2ffff62fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Waypoint Manager
-        m_OriginalName: Waypoint Manager
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 15938
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -544,9 +544,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 839.0183, y: 78.38775, z: 0}
+    m_Target: {x: -2.7986116, y: -1.2965653, z: -5.581949}
     speed: 2
-    m_Value: {x: 839.0183, y: 78.38775, z: 0}
+    m_Value: {x: -2.7986116, y: -1.2965653, z: -5.581949}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -593,13 +593,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.29290286, y: 0.017780362, z: -0.0054478985, w: -0.955971}
+    m_Target: {x: -0.50275975, y: -0.008560208, z: 0.0049787355, w: -0.86438054}
     speed: 2
-    m_Value: {x: -0.29290017, y: 0.017780198, z: -0.0054478487, w: -0.95596224}
+    m_Value: {x: -0.502755, y: -0.008560126, z: 0.004978688, w: -0.8643723}
   m_Size:
-    m_Target: 115.37617
+    m_Target: 32.98257
     speed: 2
-    m_Value: 115.37617
+    m_Value: 32.98257
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -652,7 +652,7 @@ MonoBehaviour:
   m_SerializedViewNames: []
   m_SerializedViewValues: []
   m_PlayModeViewName: GameView
-  m_ShowGizmos: 1
+  m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
   m_TargetSize: {x: 1134, y: 624}
@@ -662,7 +662,7 @@ MonoBehaviour:
   m_MaximizeOnPlay: 0
   m_UseMipMap: 0
   m_VSyncEnabled: 0
-  m_Gizmos: 1
+  m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:

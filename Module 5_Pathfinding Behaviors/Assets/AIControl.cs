@@ -4,6 +4,13 @@ using System.Reflection;
 using UnityEngine;
 using UnityEngine.AI;
 
+public enum AgentType
+{
+    Pursuer,
+    Hider,
+    Evader
+}
+
 public class AIControl : MonoBehaviour
 {
     NavMeshAgent agent;
@@ -11,6 +18,9 @@ public class AIControl : MonoBehaviour
     public GameObject target;
 
     public WASDMovement playerMovement;
+
+    public AgentType agentType;
+    public float detectionRange = 15f;
 
     void Start()
     {
@@ -132,6 +142,42 @@ public class AIControl : MonoBehaviour
 
     void Update()
     {
-        CleverHide();
+        float distanceToTarget = Vector3.Distance(transform.position, target.transform.position);
+        bool inRange = distanceToTarget <= detectionRange;
+        
+        switch (agentType)
+        {
+            case AgentType.Pursuer:
+                if (inRange)
+                {
+                    Pursue();
+                }
+                else
+                {
+                    Wander();
+                }
+                break;
+            case AgentType.Hider:
+                if (inRange)
+                {
+                    Hide();
+                }
+                else 
+                                   {
+                    Wander();
+                }
+                break;
+            case AgentType.Evader:
+                if (inRange)
+                {
+                    Evade();
+                }
+                else
+                {
+                    Wander();
+                }
+                break;
+
+        }
     }
 }
